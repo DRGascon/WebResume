@@ -39,9 +39,9 @@ h2 {
     width: 90px;
     right: 10px;
     top: 10px;
-    background: red;
+    background: #FF5F16;
     font-size: 150%; 
-    color: white;
+    color: #B53800;
     border-radius: 15px;
 }
 .cornerLogo h1{
