@@ -33,6 +33,23 @@ h2 {
     padding-left: 5%;
 }
 
+.cornerLogo {
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    right: 10px;
+    top: 10px;
+    background: red;
+    font-size: 150%; 
+    color: white;
+    border-radius: 15px;
+}
+.cornerLogo h1{
+    vertical-align: middle;    
+}
+
 .skillDescription li {
     padding-top: 10px;
+    list-style-type: none;
 }
+
