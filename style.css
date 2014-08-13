@@ -33,6 +33,17 @@ h2 {
     border-radius: 15px;
 }
 
+.sectionHeader {
+    padding-left: 10%;
+    width: 80%;
+}
+
+.sectionHeader h1 {
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 15px;
+}
+
 a {
     color: #FFFFFF;
 }
@@ -40,9 +51,19 @@ a {
 .institutionDescription {
     width: 80%;
     text-align: left;
-    padding-left: 5%;
+    padding-left: 10%;
 }
 
+dt {
+    width: 80%;
+    padding-left: 10%;
+}
+
+dt h2 {
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 15px;
+}
 .skillDescription {
     text-align: center;
     padding-left: 10%;
