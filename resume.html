@@ -4,17 +4,14 @@
         <meta charset="utf-8" />
         <title> David R. Gascon </title>
         <link rel="stylesheet" href="style.css" />
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,100' rel='stylesheet' type='text/css'>
     </head>
 
     <body>
-        <section id="personalInfo" >
-                <h1> David R. Gascon </h1>
-                <h2> E: <a href="mailto:davergascon@gmail.com">davergascon@gmail.com</a> </h2>
+        <section class="personalInfo" >
+                <h1> David R. Gascon <br>
+                E: <a href="mailto:davergascon@gmail.com">davergascon@gmail.com</a> </h1>
         </section>
-        <section class="cornerLogo">
-            <h1>DG</h1>
-        </section>
-        <hr>
 	<section class="skillDescription">
 		<ul>
 			<li><b>Languages:</b> C, C++, C++0x11, JavaScript, Python, HTML, CSS</li>
@@ -24,15 +21,16 @@
 			<li><b>Concepts:</b> Object Oriented Programming, Design Patterns, Test Driven Development, Unit Testing, Embedded Software, Linux Device Drivers </li>
 		</ul>
 	</section>
-        <hr>
         <article class="workExperience">
-            <h1> Work Experience </h1>
+            <section class="sectionHeader">
+                    <h1> Work Experience </h1>
+            </section>
             <dl>
 
                 <dt>
                     <h2> Ross Video Ltd, Ottawa Ontario - Release Prime/Software Developer </h2>
                 </dt>
-                <dd>
+                <dd class="workPlace">
                 <section class="institutionDescription"> 
                     Member of a team designing embedded applications for live video production products in a real-time, embedded, multi-threaded Linux environment.
                     <ul>
@@ -65,20 +63,22 @@
                 </dd>
                 </dl>
         </article>
-	<hr>
 	<article class="education">
 		<h1>Education</h1>
-		<h2>Algonquin College, Ottawa Ontario - Computer Engineering Technology - Computing Science with Co-Op</h2>
+		<dl>
+            <dt>
+                    <h2>Algonquin College, Ottawa Ontario - Computer Engineering Technology - Computing Science with Co-Op</h2>
+            </dt>
+            <dd class="workPlace">
 		<section class="institutionDescription">
 			<ul>
 				<li>Team leader for a client-drive project written in C# and ASP.NET with MS SQL Server 2008
 			</ul>
 		</section>
+        </dd>
 	</article>
-	<hr>
 	<article class="references">
-		<h1>References</h1>
-		<h2> Available on request </h2>
+		<h1>References Available on request </h1>
 	</article>
     </body>
 </html>
