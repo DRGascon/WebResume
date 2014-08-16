@@ -29,57 +29,22 @@ h2 {
     border: solid;
 }
 
-.paddedSection ul {
-    text-align: center;
-    color: #000000;
-    border: solid;
+.noListNodes {
+    list-style-type: none;
 }
 
-
-.paddedSection h2 {
-    text-align: center;
-    color: #000000;
-    border: solid;
+.lightVerticalSpaced {
+    line-height: 150%;
 }
 
 a {
     color: #000000;
 }
 
-dt h2 {
-    color: #000000;
-    border: solid;
-}
-
-dd section {
-    color: #000000;
-    border: solid;
-}
-
 .skillDescription {
     text-align: center;
     padding-left: 10%;
     width: 80%;
-}
-.skillDescription ul{
-    border: solid;
-    text-align: center;
-    color: #000000;
-}
-
-.cornerLogo {
-    position: absolute;
-    height: 90px;
-    width: 90px;
-    right: 10px;
-    top: 10px;
-    background: #FF5F16;
-    font-size: 150%; 
-    color: #B53800;
-    border: solid;
-}
-.cornerLogo h1{
-    vertical-align: middle;    
 }
 
 .skillDescription li {
