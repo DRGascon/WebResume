@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    font-family: "Roboto";
+    font-family: "Roboto", Arial;
     text-align: center;
     background-color: lightGrey;
 }
@@ -30,7 +30,7 @@ h2 {
     text-align: center;
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 .sectionHeader {
@@ -41,7 +41,7 @@ h2 {
 .sectionHeader h1 {
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 .education {
@@ -53,14 +53,14 @@ h2 {
     text-align: center;
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 .education h2 {
     text-align: center;
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 .references {
@@ -72,7 +72,7 @@ h2 {
     text-align: center;
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 a {
@@ -93,7 +93,7 @@ dt {
 dt h2 {
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 dd {
@@ -104,16 +104,16 @@ dd {
 dd section {
     background-color: #084175;
     color: #FFFFFF;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 .skillDescription {
     text-align: center;
     padding-left: 10%;
     width: 80%;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 .skillDescription ul{
-    border-radius: 15px;
+    border-radius: 0px;
     text-align: center;
     background-color: #084175;
     color: #FFFFFF;
@@ -128,7 +128,7 @@ dd section {
     background: #FF5F16;
     font-size: 150%; 
     color: #B53800;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 .cornerLogo h1{
     vertical-align: middle;    
