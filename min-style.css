@@ -10,10 +10,6 @@ li {
     text-align: left;
 }
 
-hr {
-    width: 80%;
-}
-
 h1 {
     font-weight: 400;
 }
@@ -22,49 +18,25 @@ h2 {
    font-weight: normal;
 }
 
-.personalInfo {
+.paddedSection {
     padding-left: 10%;
     width: 80%;
 }
-.personalInfo h1 {
+
+.paddedSection h1 {
     text-align: center;
     color: #000000;
     border: solid;
 }
 
-.sectionHeader {
-    padding-left: 10%;
-    width: 80%;
-}
-
-.sectionHeader h1 {
-    color: #000000;
-    border: solid;
-}
-
-.education {
-    padding-left: 10%;
-    width: 80%;
-}
-
-.education h1 {
+.paddedSection ul {
     text-align: center;
     color: #000000;
     border: solid;
 }
 
-.education h2 {
-    text-align: center;
-    color: #000000;
-    border: solid;
-}
 
-.references {
-    padding-left: 10%;
-    width: 80%;
-}
-
-.references h1 {
+.paddedSection h2 {
     text-align: center;
     color: #000000;
     border: solid;
@@ -74,31 +46,16 @@ a {
     color: #000000;
 }
 
-.institutionDescription {
-    width: 80%;
-    text-align: left;
-    padding-left: 10%;
-}
-
-dt {
-    width: 80%;
-    padding-left: 10%;
-}
-
 dt h2 {
     color: #000000;
     border: solid;
-}
-
-dd {
-    width: 80%;
-    padding-left:10%;
 }
 
 dd section {
     color: #000000;
     border: solid;
 }
+
 .skillDescription {
     text-align: center;
     padding-left: 10%;
