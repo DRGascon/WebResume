@@ -52,3 +52,8 @@ a {
     list-style-type: none;
 }
 
+.dateColumn {
+    position: relative;
+    left: -58%;
+    font-weight: bold;
+}
