@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+body {
+    font-family: "Roboto", Arial;
+    text-align: center;
+    background-color: lightGrey;
+}
+
+li {
+    text-align: left;
+}
+
+hr {
+    width: 80%;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+h2 {
+   font-weight: normal;
+}
+
+.personalInfo {
+    padding-left: 10%;
+    width: 80%;
+}
+.personalInfo h1 {
+    text-align: center;
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.sectionHeader {
+    padding-left: 10%;
+    width: 80%;
+}
+
+.sectionHeader h1 {
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.education {
+    padding-left: 10%;
+    width: 80%;
+}
+
+.education h1 {
+    text-align: center;
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.education h2 {
+    text-align: center;
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.references {
+    padding-left: 10%;
+    width: 80%;
+}
+
+.references h1 {
+    text-align: center;
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+.institutionDescription {
+    width: 80%;
+    text-align: left;
+    padding-left: 10%;
+}
+
+dt {
+    width: 80%;
+    padding-left: 10%;
+}
+
+dt h2 {
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+dd {
+    width: 80%;
+    padding-left:10%;
+}
+
+dd section {
+    background-color: #084175;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+.skillDescription {
+    text-align: center;
+    padding-left: 10%;
+    width: 80%;
+    border-radius: 0px;
+}
+.skillDescription ul{
+    border-radius: 0px;
+    text-align: center;
+    background-color: #084175;
+    color: #FFFFFF;
+}
+
+.cornerLogo {
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    right: 10px;
+    top: 10px;
+    background: #FF5F16;
+    font-size: 150%; 
+    color: #B53800;
+    border-radius: 0px;
+}
+.cornerLogo h1{
+    vertical-align: middle;    
+}
+
+.skillDescription li {
+    padding-top: 10px;
+    list-style-type: none;
+}
+
